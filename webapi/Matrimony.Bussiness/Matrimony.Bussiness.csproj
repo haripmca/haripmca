@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Matrimony.DataAccess\Matrimony.DataAccess.csproj" />
+    <ProjectReference Include="..\Matrimony.Entities\Matrimony.Entities.csproj" />
+  </ItemGroup>
+
+</Project>
